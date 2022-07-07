@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{C9B4581C-6E63-481E-9323-0C2E975CC772}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3D9DBF23-DF24-4F78-A895-B7958FD34ECD}"
+	ProjectSection(SolutionItems) = preProject
+		src\.gitkeep = src\.gitkeep
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTest", "test\IntegrationTest\IntegrationTest.csproj", "{74D9FC92-BEDF-4F34-B98E-780328EB8DB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74D9FC92-BEDF-4F34-B98E-780328EB8DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D9FC92-BEDF-4F34-B98E-780328EB8DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D9FC92-BEDF-4F34-B98E-780328EB8DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D9FC92-BEDF-4F34-B98E-780328EB8DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{74D9FC92-BEDF-4F34-B98E-780328EB8DB9} = {C9B4581C-6E63-481E-9323-0C2E975CC772}
+	EndGlobalSection
+EndGlobal
