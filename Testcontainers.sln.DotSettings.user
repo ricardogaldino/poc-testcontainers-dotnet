@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AExceptionDispatchInfo_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002Econfig_003FJetBrains_003FRider2022_002E1_003Fresharper_002Dhost_003FSourcesCache_003Fbebd253e21dcf766929bfdfd74615bfe46e6e1693b289273dbdb82152893_003FExceptionDispatchInfo_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=238caec0_002D9212_002D42c3_002Da41c_002D46abb5435e78/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldOpenConnectionSuccessfully" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/rluna/projects/poc-testcontainers-dotnet/test/IntegrationTest" Presentation="&amp;lt;test&amp;gt;\&amp;lt;IntegrationTest&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d30f3468_002Dd1f5_002D49d9_002D97b5_002Df5148dbe9a7f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/rluna/projects/poc-testcontainers-dotnet/test/IntegrationTest" Presentation="&amp;lt;test&amp;gt;\&amp;lt;IntegrationTest&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
